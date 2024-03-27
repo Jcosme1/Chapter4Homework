@@ -1,4 +1,4 @@
-package Exercise1;
+package Exercise3;
 
 
 //you can either put it in another class or since the program is small, add it to the same program

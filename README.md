@@ -4,6 +4,8 @@ Java already has many excpetions but creating your own program at some point wil
 Used this video as a referance :
 https://www.youtube.com/watch?v=bLGzEqd-ELM&pp=ygUTYWxleCBsZWUgZXhjZXB0aW9uIA%3D%3D
 
+UML is in each exercise folder
+
 
 
 
